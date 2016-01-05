@@ -10,3 +10,6 @@ You should have synced folders akin to the following:
 * _/vagrant_ - Files to be generally shared between environments
 * _/vagrant/bin_ - Scripts for your guest OS
 * _/vagrant/www_ - All web projects
+
+The folder that will be `/vagrant` in the guest OS also needs the following:
+* The Magento 1.9 [sample data](https://www.magentocommerce.com/download). Grab the bzipped tar archive.
